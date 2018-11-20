@@ -1,7 +1,7 @@
 # test
-je viens de crée mon profil git hub et maintenaint je suis en train de étudier.
+je viens de crée mon profil git hub et maintenaint je suis en train d'étudier.
 # first test
-maintenaint je suis en train de faire mon pre,ier essaye avec git hub et git
+maintenaint je suis en train de faire mon premier essaye avec git hub et git
 
 
 # Prêtez attention à la qualité de vos messages de commit et essayez d’être précis
