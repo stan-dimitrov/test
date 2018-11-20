@@ -8,19 +8,19 @@ maintenaint je suis en train de faire mon pre,ier essaye avec git hub et git
 SD8@DESKTOP-T8CL8HK MINGW64 ~/test (master)
 $ git log
 commit d2a3d6e1e62b8413ee67a65c9c85c164e28d7180 (HEAD -> master, origin/master,origin/HEAD)
-Author: Stan <stanimirimoni@gmail.com>
+Author: 
 Date:   Tue Nov 20 12:33:29 2018 +0100
 
     Autre fichier texte
 
 commit e80b954b0a16f2598e343492901f478567522a26
-Author: Stan <stanimirimoni@gmail.com>
+Author: 
 Date:   Tue Nov 20 12:25:13 2018 +0100
 
     Ajouté des informations au readme
 
 commit 5b49b75fbb657d607b7b1dffdf4cb99ea9efcd4e
-Author: stan-dimitrov <45197828+stan-dimitrov@users.noreply.github.com>
+Author: 
 Date:   Tue Nov 20 11:07:49 2018 +0100
 
     Initial commit
