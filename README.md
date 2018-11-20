@@ -5,7 +5,7 @@ maintenaint je suis en train de faire mon pre,ier essaye avec git hub et git
 
 
 # Prêtez attention à la qualité de vos messages de commit et essayez d’être précis
-SD8@DESKTOP-T8CL8HK MINGW64 ~/test (master)
+T8CL8HK MINGW64 ~/test (master)
 $ git log
 commit d2a3d6e1e62b8413ee67a65c9c85c164e28d7180 (HEAD -> master, origin/master,origin/HEAD)
 Author: 
@@ -27,10 +27,10 @@ Date:   Tue Nov 20 11:07:49 2018 +0100
 
 
 # encore une modificatioon 
-SD8@DESKTOP-T8CL8HK MINGW64 ~/test (master)
+T8CL8HK MINGW64 ~/test (master)
 $ vim autre.txt
 
-SD8@DESKTOP-T8CL8HK MINGW64 ~/test (master)
+T8CL8HK MINGW64 ~/test (master)
 $ git status
 On branch master
 Your branch is up to date with 'origin/master'.
